@@ -1,0 +1,28 @@
+{
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "python.languageServer": "Microsoft",
+    "python.pythonPath": "C:\\Users\\dell pc\\AppData\\Local\\Programs\\Python\\Python37\\python.exe",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.formatOnSave": true,
+    "git.suggestSmartCommit": false,
+    "git.autofetch": true,
+    "cSpell.userWords": [
+        "bgcolor"
+    ],
+    "C_Cpp.addNodeAddonIncludePaths": true,
+    "extensions.autoUpdate": false,
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "window.zoomLevel": -1,
+    "workbench.colorTheme": "Abyss",
+    "update.enableWindowsBackgroundUpdates": false,
+    "update.mode": "manual",
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "files.autoSave": "afterDelay"
+}
